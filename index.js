@@ -18,5 +18,9 @@ function johnLennonFacts(factsArray) {
 
 function iLoveTheBeatles(num) {
   var arr = []
-  
+  do {
+    arr.push("text += "The number is " + i;
+    i++;
+  }
+  while (i < 15);
 }
