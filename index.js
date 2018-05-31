@@ -8,5 +8,5 @@ function theBeatlesPlay(musicianArray, instrumentArray) {
 }
 
 function johnLennonFacts(factsArray) {
-  
+  while (factsArray)
 }
